@@ -1,0 +1,36 @@
+<!--FS Editor-->
+    <center><img src="https://cdn.discordapp.com/attachments/832539399429292042/864052145794973696/welcome_01.png" alt="welcome"></center>   <!--[ตลงนี้แก้ใขชื่อเว็บได้ที่ your name!]-->
+    <hr>
+
+    <!--<center><img src="ใส่ลิ้งรูป.png" alt="ชื่อของรูป"></center>-->
+    <center><p>I am Keeyaphat I am a student I am a friendly person</p> <!--[อันนี้เป็นการบอกชื่อบอกว่าเราทำงานอะไรนะครับ(จะใส่รูปด้วยก็ได้นะถ้าจะใส่รูปลบที่มาคไว้ออกได้เลยครับ  line11นะครับ]-->
+      <hr>
+
+<center><img src="https://cdn.discordapp.com/attachments/832539399429292042/864052565435613184/myhobbies.png" alt="Myhobbies"></center> <!--[อันนี้แก้แค่เอางานอดิเรกลบ[Your hobbies]ออกแล้วใสงานอดิเรกของคุณเข้าไปได้เลยนะครับ](ถ้าจะเพิ่มงานอดิเรกก็กดEnterต่อจาก line24ได้เลยนะครับ)-->
+<center>
+<ul>
+  <li>love Drawing</li>
+  <li>Bake a cake</li>
+  <li>Watching Korean drama</li>
+  <li>playing with my cat</li>
+</ul>
+</center>
+<hr>
+<center><h1>MY FAVORITE FOODS</h1></center> <!--[อันนี้แก้แค่เอาอาหารที่ชอบ ลบ[Your favorite]ออกแล้วใสอาหารที่คุณชอบเข้าไปได้เลยนะครับ](ถ้าจะเพิ่มอาหารที่ชอบก็กดEnterต่อจาก line36ได้เลยนะครับ)-->
+<center>
+<ol>
+  <li>Sushi</li>
+  <li>Steak</li>
+  <li>Tom yum kung</li>
+<li>Pancake</li>
+  </center>
+</ol>
+<style>
+body {
+  background-image: url('https://cdn.discordapp.com/attachments/832539399429292042/864051320084234250/Singapore-night-view-skyscraper-1573273.jpg');
+}
+img {
+  height:39;
+  width:471;
+}
+</style>
